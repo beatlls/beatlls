@@ -11,6 +11,14 @@ Atualmente, aos 19 anos, sou estudante do segundo período de Análise e Desenvo
   <img align="right" height="150" width="150" alt="bea-stardew" src="https://cdn.discordapp.com/attachments/954471550155907095/1394804656269426839/Design_sem_nome.gif?ex=68782490&is=6876d310&hm=c69f99b4ca167f1700f8bda130250cf4f477d213652239722d32a8373eaf501e&"/>
 </div>
 
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatlls/beatlls/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatlls/beatlls/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beatlls/beatlls/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 ### Conecte comigo!
 <div>
   <a href = "mailto:biawandekoken905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
