@@ -17,6 +17,7 @@ Atualmente, aos 19 anos, sou estudante do segundo período de Análise e Desenvo
   <a href="https://www.linkedin.com/in/beatlls" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### Estatísticas
 <img
       align="left"
       alt="GitHub Stats"
