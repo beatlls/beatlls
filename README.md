@@ -1,6 +1,6 @@
 <h1> Oiê, Devs! Eu sou a Beatriz</h1>
 
-Atualmente, aos 19 anos, sou estudante do segundo período de Análise e Desenvolvimento de Sistemas na PUCPR. Me interesso pela área de programação desde a minha adolescência, porém só no segundo semestre de 2024 que comecei a levar os meus estudos a sério e investigando melhor o que realmente me agradava, me encontrei no Full Stack, que é onde sigo estudando hoje. Minhas principais linguagens e as que ando estudando no momento são Java e JavaScript. Aqui, deixo meu aprendizado constante e projetos pelos quais trabalho arduamente e dou o meu melhor.
+Atualmente, aos 19 anos, sou estudante do segundo período de Análise e Desenvolvimento de Sistemas na PUCPR. Me interesso pela área de programação desde a minha adolescência, porém só no segundo semestre de 2024 que comecei a levar os meus estudos a sério e investigando melhor o que realmente me agradava, me encontrei em Dados, que é onde sigo estudando hoje. Minhas principais linguagens e as que ando estudando no momento são Java e Python. Aqui, deixo meu aprendizado constante e projetos pelos quais trabalho arduamente e dou o meu melhor.
 
 ### Commits
 <div>
